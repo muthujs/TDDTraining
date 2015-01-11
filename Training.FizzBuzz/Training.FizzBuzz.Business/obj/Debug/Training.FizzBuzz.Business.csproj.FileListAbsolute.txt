@@ -1,0 +1,5 @@
+E:\Dev\Training\GIT\src\Training.FizzBuzz\Training.FizzBuzz.Business\bin\Debug\Training.FizzBuzz.Business.dll
+E:\Dev\Training\GIT\src\Training.FizzBuzz\Training.FizzBuzz.Business\bin\Debug\Training.FizzBuzz.Business.pdb
+E:\Dev\Training\GIT\src\Training.FizzBuzz\Training.FizzBuzz.Business\obj\Debug\Training.FizzBuzz.Business.csprojResolveAssemblyReference.cache
+E:\Dev\Training\GIT\src\Training.FizzBuzz\Training.FizzBuzz.Business\obj\Debug\Training.FizzBuzz.Business.dll
+E:\Dev\Training\GIT\src\Training.FizzBuzz\Training.FizzBuzz.Business\obj\Debug\Training.FizzBuzz.Business.pdb
